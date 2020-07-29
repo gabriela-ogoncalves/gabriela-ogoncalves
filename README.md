@@ -1,4 +1,4 @@
-### Hey, devs! 👋
+### Olá, devs! 👋
 
 Me chamo Gabriela, sou do Rio de Janeiro/RJ e tenho 23 anos. Estou cursando Ciência da Computação na Uerj e sou iniciante no universo da programação. 
 Já tive experiências com desenvolvimento full stack e gostei bastante.
