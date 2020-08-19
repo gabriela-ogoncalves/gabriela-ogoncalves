@@ -1,17 +1,16 @@
 ### Olá, devs! 👋
 
 Me chamo Gabriela, sou do Rio de Janeiro/RJ e tenho 23 anos. Estou cursando Ciência da Computação na Uerj e sou iniciante no universo da programação. 
-Já tive experiências com desenvolvimento full stack e gostei bastante.
-Atualmente estou me apaixonando e me aventurando cada vez mais no ReactJS, desenvolvendo o projeto da #ImersãoReact da [Alura](https://https://www.alura.com.br/imersao-react/).
+Atualmente estou me aprofundando no desenvolvimento web e me apaixonando cada vez mais por React. 
+Meu objetivo é me tornar uma desenvolvedora full stack.
 
 ### Curiosidades sobre mim
 
-Contrariando um pouco a galera da área, não sou muito chegada a jogos digitais. Meus hobbies são ver série, andar de bicicleta e admirar o por do sol sempre que possível. Apaixonada por música, canto nas horas vagas e quero um dia conseguir me comunicar através da Libras. Meu grande sonho é participar de projeto(s) que unam a computação com assuntos como acessibilidade e minorias sociais. 
+Contrariando um pouco a galera da área, não sou muito chegada a jogos digitais. Meus hobbies são ver série, andar de bicicleta e admirar o por do sol sempre que possível. Apaixonada por música, canto nas horas vagas e quero um dia conseguir me comunicar através da Libras. Meu grande sonho é participar de projeto(s) que unam a computação com assuntos como acessibilidade e minorias sociais (atualmente estou realizando esse sonho, fazendo parte de um voluntariado que auxilia na inserção jovens negros e periféricos no mercado de trabalho). 
 
 ### Links
 
    - [Linkedin](https://www.linkedin.com/in/gabriela-ogoncalves)
-   - [Instagram](https://instagram.com/gabe_goncalves)
 
 ### Projetos
 
